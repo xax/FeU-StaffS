@@ -1,0 +1,11 @@
+.vscode/**
+venv/**
+.venv/**
+
+vendor/**
+*.sum
+
+*.exe
+staffs
+
+__**
